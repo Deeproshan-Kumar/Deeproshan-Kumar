@@ -1,6 +1,6 @@
 ## Hi there, I'm Deeproshan👋
 
-# I am a Sr. Frontend Developer.
+# I am a Senior Frontend Engineer.
 
 ## 🚀 Languages and Tools
 
@@ -29,7 +29,9 @@
 
 ## 📫 Contact Me
 - Email: deeproshankumar123@email.com
-- LinkedIn: https://linkedin.com/in/Deeproshan-Kumar
+- Phone: +91 7271053944
+- Portfolio: https://deeproshan-portfolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/deeproshan-kumar
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Deeproshan-Kumar&show_icons=true)
+![Deeproshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deeproshan-Kumar&show_icons=true&theme=tokyonight&cache_seconds=1800)
