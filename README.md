@@ -63,7 +63,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
@@ -83,21 +85,13 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deeproshan-Kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Deeproshan's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://streak-stats.demolab.com?user=Deeproshan-Kumar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeproshan-Kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Deeproshan-Kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Deeproshan's GitHub Stats" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=Deeproshan-Kumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Deeproshan-Kumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </p>
 </div>
 
 ---
@@ -106,7 +100,7 @@
 
 - 🌐 **Portfolio:** [deeproshan-portfolio.vercel.app](https://deeproshan-portfolio.vercel.app/)
 - 💼 **LinkedIn:** [linkedin.com/in/deeproshan-kumar](https://www.linkedin.com/in/deeproshan-kumar)
-- 📧 **Email:** [swe.deeproshan@email.com](mailto:swe.deeproshan@email.com)
+- 📧 **Email:** [deeproshankumar123@email.com](mailto:deeproshankumar123@email.com)
 - 📱 **Phone:** `+91 7271053944`
 
 <div align="center">
